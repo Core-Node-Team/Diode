@@ -42,7 +42,7 @@ Bu işlemden sonra sana özel bir *.diode.link URL’si oluşur. Web tarayıcın
 
 ### 🔹 6. (İsteğe Bağlı) Düğüm Sürekli Çalışsın Diye Logları İzle
 ```
-journalctl -u snap.diode-node.daemon -f
+sudo snap logs diode-node -f
 ```
 Bu komutla arka plandaki düğüm loglarını takip edebilirsin.
 
