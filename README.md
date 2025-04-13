@@ -77,7 +77,7 @@ GJTCTZTFRAPNVNJXSXGE
 ![image](https://github.com/user-attachments/assets/52afa1d9-fc94-423b-89dd-64cab864e279)
 
 
-### 🔹 11. Platforma bağladığımız cüzdan adresimizi alalım ve aşağıdaki şekilde resimdeki gibi bota yazarak cüzdanımızı kayıt edelim. 
+### 🔹 11. Platforma bağladığımız cüzdan adresimizi alalım ve aşağıdaki şekilde resimdeki gibi bota yazarak cüzdanımızı kayıt edelim. Cüzdan kaydı bir kere yapmanız yeterlidir.
 ```
 set wallet EVMCUZDANADRESINIZ
 ```
