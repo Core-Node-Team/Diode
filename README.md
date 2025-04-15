@@ -1,4 +1,17 @@
 # Diode
+### port açmak gerekebilir..
+```
+sudo ufw allow 22
+sudo ufw allow 38537
+sudo ufw allow 51055
+sudo ufw allow 41046
+sudo ufw allow 443
+sudo ufw allow 993
+sudo ufw allow 1723
+sudo ufw allow 10000
+sudo ufw allow 8545
+sudo ufw allow 8443
+```
 
 ### 🔹 1. Genel sistem güncellemelerini yapalım
 ```
