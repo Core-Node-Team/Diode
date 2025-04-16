@@ -53,6 +53,18 @@ diode publish mysite
 Bu işlemden sonra sana özel bir *.diode.link URL’si oluşur. Web tarayıcında bu adresi ziyaret ederek içeriğini görebilirsin.
 
 
+eğer hata alırsanız yada lin oluşmaz ise 
+```
+cd mysite
+python3 -m http.server 5050 &
+```
+```
+python3 -m http.server 5050 &
+```
+```
+diode publish -public 5050:80
+```
+
 ### 🔹 6. (İsteğe Bağlı) Düğüm Sürekli Çalışsın Diye Logları İzle
 ```
 sudo snap logs diode-node -f
